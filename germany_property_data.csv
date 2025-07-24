@@ -1,0 +1,201 @@
+,address,city,state,country,propertyType,yearBuilt,size,bedrooms,bathrooms,mostRecentPriceAmount
+0,455 Jeanette Branch Suite 337,Mississauga,BC,Canada,Condo,2022,3759,4,2,1833176.44
+1,57415 Holland Mountain,Ottawa,AB,Canada,Detached,1980,2943,5,2,1368944.16
+2,626 Booth Station Apt. 999,Calgary,ON,Canada,Townhouse,1994,3837,3,4,2078621.3
+3,11222 Rodriguez Terrace Suite 537,Toronto,QC,Canada,Townhouse,2009,2237,5,4,1421757.65
+4,193 Dustin Square,Ottawa,ON,Canada,Townhouse,2013,2545,2,3,1600450.1
+5,68512 Martin Lake Apt. 051,Vancouver,ON,Canada,Townhouse,1971,889,4,3,277299.75
+6,237 Tina Valley Apt. 272,Calgary,BC,Canada,Detached,2002,3168,3,3,1796201.84
+7,65794 Michael Ferry,Toronto,QC,Canada,Condo,2018,800,5,4,513399.48
+8,40619 Christine Orchard,Ottawa,AB,Canada,Semi-Detached,1976,1232,4,1,703012.79
+9,047 Hunt Estate,Calgary,ON,Canada,Semi-Detached,2022,1041,1,4,379619.45
+10,677 Andrews Lodge Suite 403,Ottawa,BC,Canada,Semi-Detached,2008,1759,1,2,1062306.29
+11,930 Lang Ways,Toronto,QC,Canada,Condo,1992,2047,1,3,746204.27
+12,188 Teresa Street,Vancouver,ON,Canada,Semi-Detached,2013,3275,3,1,1678385.95
+13,073 Paul Prairie Suite 553,Ottawa,AB,Canada,Condo,2020,3032,3,4,1661598.08
+14,98513 Hinton Villages Apt. 933,Vancouver,AB,Canada,Condo,2015,2742,5,3,890876.24
+15,41682 Vanessa Dam,Calgary,BC,Canada,Semi-Detached,2012,2936,3,2,1511909.64
+16,583 Christina Meadow,Toronto,QC,Canada,Detached,1984,2550,3,3,1015929.0
+17,8887 Carol Trail Suite 744,Ottawa,AB,Canada,Detached,1972,1402,3,4,869598.38
+18,754 Carol Bridge,Vancouver,AB,Canada,Semi-Detached,2004,1856,2,4,1408456.16
+19,53135 Nash Walk Suite 510,Ottawa,BC,Canada,Townhouse,1986,2704,5,3,1818528.91
+20,808 Brandon Haven,Vancouver,BC,Canada,Townhouse,1989,1580,4,4,708712.37
+21,052 Adams Fork Apt. 158,Mississauga,BC,Canada,Detached,1988,844,3,4,394173.66
+22,71701 Melissa Green,Mississauga,ON,Canada,Detached,1971,3616,1,1,2109003.5
+23,3670 Reynolds Station Suite 986,Calgary,AB,Canada,Condo,1984,3300,2,4,1937471.88
+24,3616 Jimmy Via,Mississauga,BC,Canada,Detached,2009,3556,5,1,2801582.67
+25,9770 David Manor Suite 494,Ottawa,BC,Canada,Semi-Detached,2008,887,1,4,378564.27
+26,534 Luis Fort Suite 575,Vancouver,BC,Canada,Townhouse,2004,1562,4,2,829873.94
+27,88618 Stout Rue Apt. 272,Vancouver,AB,Canada,Townhouse,1997,2230,3,2,823131.21
+28,9833 Matthew Trail,Vancouver,ON,Canada,Townhouse,2010,960,2,4,652488.53
+29,39697 Ruiz Manor,Vancouver,AB,Canada,Semi-Detached,2021,627,5,4,221948.59
+30,191 Evan Junction Suite 374,Vancouver,BC,Canada,Townhouse,1983,1153,2,2,651029.03
+31,9144 Melanie Ranch,Ottawa,QC,Canada,Townhouse,1975,3491,1,4,2466161.94
+32,9903 Erik Mall,Vancouver,QC,Canada,Semi-Detached,1997,2705,3,2,1123864.32
+33,49396 Bonnie Lake Apt. 056,Toronto,BC,Canada,Detached,2001,1570,3,2,1103898.89
+34,89288 Lindsay Club Suite 678,Calgary,AB,Canada,Townhouse,1986,3053,4,2,2142213.32
+35,19202 Ronald Garden Suite 478,Toronto,ON,Canada,Townhouse,1973,3920,4,3,1838250.0
+36,8437 Mark Motorway,Mississauga,AB,Canada,Detached,2019,2644,5,1,1139865.05
+37,807 Michael Curve Suite 280,Ottawa,AB,Canada,Townhouse,1999,3348,5,1,1495828.78
+38,970 Andersen Views Apt. 865,Ottawa,ON,Canada,Semi-Detached,2001,2935,4,1,2257003.57
+39,468 Dunn Rapids,Mississauga,AB,Canada,Semi-Detached,2002,2659,4,2,1802553.61
+40,938 Stacey Throughway Suite 109,Ottawa,BC,Canada,Semi-Detached,1973,3867,3,4,1747808.06
+41,5836 Zoe Forest,Vancouver,QC,Canada,Semi-Detached,2008,3691,2,1,2275727.38
+42,877 Cooper Common,Vancouver,AB,Canada,Detached,1989,2598,4,3,998821.81
+43,056 Michael Fall,Ottawa,ON,Canada,Condo,2017,1181,2,4,564273.45
+44,731 Jones Estate,Vancouver,BC,Canada,Semi-Detached,1981,1322,2,1,724573.77
+45,8255 Kelly Way,Ottawa,BC,Canada,Condo,2009,3300,2,2,1701567.15
+46,13336 Goodman Unions,Calgary,AB,Canada,Semi-Detached,1984,3601,4,4,1351255.96
+47,1564 Joseph Divide Suite 277,Vancouver,QC,Canada,Condo,2013,1869,5,4,961652.26
+48,893 Ellis Islands,Mississauga,AB,Canada,Semi-Detached,1972,3062,2,4,1512379.83
+49,87756 Thomas Stream Apt. 814,Ottawa,ON,Canada,Condo,1973,3849,5,2,2776408.75
+50,752 Lindsay Haven Apt. 135,Vancouver,QC,Canada,Detached,1981,1562,4,4,1047180.61
+51,25323 Kathleen Tunnel Apt. 609,Ottawa,ON,Canada,Condo,1982,965,5,1,405666.58
+52,30115 James Keys,Vancouver,BC,Canada,Townhouse,2009,2945,5,3,901021.45
+53,2821 Kimberly Plain,Vancouver,AB,Canada,Semi-Detached,2005,3987,5,4,2385871.11
+54,96199 Kristy Parkway,Ottawa,AB,Canada,Detached,1985,3886,5,2,2485189.2
+55,764 Kelly Station,Mississauga,BC,Canada,Townhouse,1977,2634,5,1,1182471.04
+56,0000 Hayes Route,Ottawa,QC,Canada,Detached,2004,3887,5,1,1493383.68
+57,3616 Melanie Knolls Apt. 324,Vancouver,BC,Canada,Condo,2016,2633,4,1,1580567.99
+58,6826 Diana Knolls,Vancouver,QC,Canada,Detached,1972,1372,2,1,501620.22
+59,7737 Reed Well Suite 772,Toronto,ON,Canada,Townhouse,2021,2261,3,2,1679665.97
+60,7832 Jackson Bridge,Vancouver,QC,Canada,Detached,2010,3490,5,1,1235922.24
+61,79276 Nicholas Parkway,Vancouver,AB,Canada,Semi-Detached,1978,643,3,3,359257.81
+62,6914 Simmons Forge Apt. 636,Ottawa,BC,Canada,Semi-Detached,2016,1479,4,4,468758.21
+63,6764 Brewer Rapids,Calgary,QC,Canada,Detached,2014,1532,2,1,668589.77
+64,2268 Jeffrey Cliff Suite 993,Toronto,ON,Canada,Condo,2012,1555,2,1,494743.57
+65,3093 Jennifer Ferry,Calgary,AB,Canada,Condo,1978,876,5,1,610913.99
+66,56150 Stewart Rest Suite 822,Calgary,BC,Canada,Semi-Detached,1972,2456,5,4,1679341.07
+67,00310 Greene Causeway Apt. 903,Toronto,BC,Canada,Condo,2003,1768,4,4,796953.82
+68,47315 Richard Village,Ottawa,AB,Canada,Semi-Detached,1998,1280,4,3,563082.52
+69,488 Davidson Meadow,Mississauga,ON,Canada,Semi-Detached,2020,841,5,3,574401.64
+70,124 Paul Spring,Ottawa,AB,Canada,Condo,1988,3043,1,4,1114679.06
+71,932 Seth Forks,Ottawa,ON,Canada,Townhouse,1970,3280,3,2,2162033.25
+72,802 Donna Trace Suite 850,Mississauga,ON,Canada,Semi-Detached,2010,3055,2,2,1325885.66
+73,19640 Christopher Fall Apt. 120,Calgary,QC,Canada,Townhouse,1985,2297,1,2,1362176.84
+74,1532 Jones Square,Calgary,ON,Canada,Detached,1973,3041,1,1,1259016.96
+75,0188 Hammond Hills,Mississauga,ON,Canada,Detached,2000,1792,3,1,925338.94
+76,4273 Marie Groves,Vancouver,AB,Canada,Condo,2005,2184,3,2,1293921.17
+77,25561 Shannon Village Apt. 488,Mississauga,ON,Canada,Condo,1979,2230,5,3,1765138.76
+78,431 Anthony Shoal,Vancouver,AB,Canada,Condo,1998,3112,5,1,1232655.92
+79,367 Nelson Tunnel Apt. 146,Calgary,BC,Canada,Detached,1976,3168,5,4,1689672.04
+80,79871 Martinez Crossroad,Vancouver,QC,Canada,Detached,1980,2540,2,1,1090111.7
+81,2193 Maria Lake,Mississauga,QC,Canada,Condo,2011,1894,1,3,804580.07
+82,11256 King Oval,Mississauga,ON,Canada,Condo,1990,3168,2,3,1513075.63
+83,989 Jennings Oval,Calgary,BC,Canada,Townhouse,2008,2328,2,3,969244.34
+84,061 Jones Roads Apt. 041,Ottawa,BC,Canada,Condo,2005,3471,5,3,2598037.3
+85,89541 Wall Ridges Suite 255,Ottawa,QC,Canada,Townhouse,1970,728,3,2,338457.64
+86,35326 Dennis Neck Suite 406,Mississauga,ON,Canada,Semi-Detached,1972,1922,4,2,937960.13
+87,73359 Taylor Forest,Vancouver,AB,Canada,Semi-Detached,1976,3118,5,4,2393270.69
+88,295 Ashley Forest Suite 145,Vancouver,QC,Canada,Townhouse,1996,1040,4,4,771277.54
+89,0613 Chavez Spurs Apt. 587,Vancouver,ON,Canada,Condo,1994,2285,3,1,696593.97
+90,17118 Pena Manors,Calgary,BC,Canada,Semi-Detached,2009,1352,1,1,800382.94
+91,8992 Crystal Plains Suite 106,Ottawa,ON,Canada,Semi-Detached,1983,3719,3,2,1964069.13
+92,853 Brown Prairie Apt. 432,Toronto,ON,Canada,Condo,1972,1505,4,1,572784.81
+93,45671 Steven Circles,Ottawa,QC,Canada,Townhouse,2001,3327,3,3,2389048.18
+94,03113 Donna Dale,Ottawa,QC,Canada,Townhouse,1973,1050,1,3,668448.87
+95,1366 Regina Hills Suite 519,Vancouver,ON,Canada,Detached,2001,1117,4,3,759796.93
+96,05775 Devin Way,Toronto,AB,Canada,Detached,2003,3967,3,2,2730176.35
+97,510 Donovan Square Suite 298,Calgary,QC,Canada,Condo,1982,845,5,1,431438.18
+98,1459 Allen Inlet,Ottawa,ON,Canada,Detached,1994,2897,3,3,1484496.02
+99,09725 Gomez Bridge Suite 008,Toronto,ON,Canada,Condo,2003,1588,4,1,1060215.74
+100,544 Ryan Square Apt. 422,Vancouver,AB,Canada,Detached,2019,1973,1,2,1542037.93
+101,23917 Michelle Estate Suite 599,Calgary,AB,Canada,Semi-Detached,1980,2607,4,1,1086574.01
+102,4949 Sarah Gardens,Toronto,QC,Canada,Semi-Detached,2009,760,4,4,294324.27
+103,669 Samantha Pine Apt. 346,Mississauga,QC,Canada,Detached,1996,2349,2,3,1588898.4
+104,98421 Travis Curve,Ottawa,AB,Canada,Detached,2018,3493,5,1,2687739.62
+105,688 Black Mews Apt. 153,Mississauga,BC,Canada,Townhouse,1978,3721,5,1,1224799.24
+106,2085 Taylor Branch,Ottawa,QC,Canada,Condo,1995,1081,4,4,798335.8
+107,29601 Jennifer Walks Apt. 184,Toronto,ON,Canada,Detached,2007,1207,5,1,743754.61
+108,9710 Delgado Ways,Calgary,QC,Canada,Detached,1973,3843,1,3,1405856.86
+109,02295 David Plains Suite 780,Calgary,BC,Canada,Townhouse,1988,2025,1,4,1593663.23
+110,580 Potter Hills,Mississauga,AB,Canada,Semi-Detached,1974,1019,3,3,416302.75
+111,01812 Smith Fall Suite 634,Mississauga,AB,Canada,Semi-Detached,1980,1611,3,3,934735.66
+112,0586 Charles Way,Toronto,ON,Canada,Detached,2003,1558,1,2,984644.1
+113,3275 Kathryn Brook Suite 674,Calgary,QC,Canada,Townhouse,1981,2302,2,4,1209311.4
+114,124 Hansen Oval Suite 772,Vancouver,AB,Canada,Detached,2005,1493,2,4,749781.49
+115,43423 Hart Squares Suite 446,Ottawa,BC,Canada,Townhouse,1979,1853,1,4,944859.52
+116,3490 Bean Springs,Toronto,ON,Canada,Condo,2000,2369,2,2,1694421.01
+117,9501 Elizabeth Gardens Apt. 639,Calgary,ON,Canada,Semi-Detached,2020,729,2,1,229227.51
+118,03822 Thomas Via,Vancouver,ON,Canada,Townhouse,1988,1304,3,1,798752.73
+119,027 Denise View,Toronto,ON,Canada,Townhouse,1980,750,5,1,314087.88
+120,22198 Margaret Viaduct Suite 073,Calgary,ON,Canada,Condo,2018,2432,3,1,1766904.57
+121,45028 Holden Plains Suite 141,Calgary,QC,Canada,Condo,2000,1507,2,2,1010639.48
+122,3433 Morgan Brooks,Toronto,BC,Canada,Townhouse,1980,862,4,1,350513.11
+123,567 Henderson Isle,Vancouver,QC,Canada,Detached,2019,1079,5,3,707680.17
+124,850 Matthew Vista,Mississauga,QC,Canada,Detached,1994,3502,2,3,1838590.11
+125,306 Hernandez Mills Suite 213,Vancouver,BC,Canada,Townhouse,1990,1878,1,4,1122158.6
+126,858 Emily Inlet Suite 485,Mississauga,BC,Canada,Townhouse,1990,2351,2,2,1781428.22
+127,41133 Tara Grove Apt. 745,Mississauga,ON,Canada,Detached,1996,613,3,1,448848.95
+128,3958 Scott Meadows Apt. 908,Ottawa,BC,Canada,Condo,1984,2909,5,3,2092088.16
+129,2521 Bridges Centers Suite 252,Calgary,BC,Canada,Detached,1980,2441,3,2,1117834.74
+130,1852 Miller Groves Suite 906,Toronto,BC,Canada,Condo,1995,2128,2,3,1317317.6
+131,536 John Fall,Mississauga,QC,Canada,Semi-Detached,1982,948,3,4,698469.29
+132,30105 Watson Vista Apt. 961,Vancouver,QC,Canada,Semi-Detached,1974,1216,3,1,557315.42
+133,5012 Mark Village Suite 183,Ottawa,AB,Canada,Condo,2006,3685,5,4,1689040.46
+134,421 Howard Cove,Calgary,QC,Canada,Condo,2021,1664,2,1,1216398.88
+135,372 Mack Cove Apt. 841,Ottawa,AB,Canada,Townhouse,2016,3428,2,2,1034837.1
+136,70912 Jackson Station,Calgary,BC,Canada,Semi-Detached,1985,1683,5,4,617448.42
+137,275 Christopher Circles Apt. 446,Ottawa,QC,Canada,Semi-Detached,1993,1266,5,4,607790.44
+138,907 Sullivan Drive Suite 980,Mississauga,ON,Canada,Semi-Detached,2022,1686,2,2,1229293.01
+139,24240 Jarvis Alley Suite 495,Vancouver,ON,Canada,Townhouse,2018,607,1,4,255283.34
+140,964 Jose Village Apt. 061,Ottawa,ON,Canada,Detached,1972,3972,4,4,2691885.58
+141,05974 Miller Summit,Calgary,BC,Canada,Detached,1984,3421,4,3,1709677.74
+142,8957 Cherry Ridges Suite 730,Calgary,QC,Canada,Condo,1995,2002,2,4,1083045.04
+143,1330 Davies Flats Suite 852,Vancouver,ON,Canada,Townhouse,2000,730,5,4,363304.22
+144,93420 Anderson Lane,Vancouver,AB,Canada,Condo,1980,1105,3,1,363661.84
+145,146 Green Wall,Toronto,AB,Canada,Condo,1989,2488,5,3,1338397.16
+146,256 Butler Squares,Mississauga,ON,Canada,Semi-Detached,2001,1090,4,2,502980.03
+147,4777 Scott Islands,Toronto,ON,Canada,Townhouse,1983,1191,5,4,555912.49
+148,954 Johnson Roads,Toronto,BC,Canada,Detached,2018,2642,2,2,1115794.15
+149,13660 Edward Landing Suite 079,Toronto,QC,Canada,Townhouse,1990,3838,5,1,1650476.5
+150,8694 Craig Track Apt. 111,Calgary,ON,Canada,Townhouse,2011,1572,3,2,1011592.24
+151,326 Harris Expressway Apt. 617,Toronto,AB,Canada,Condo,1971,1759,3,4,1357399.02
+152,78679 Alexander Turnpike,Ottawa,AB,Canada,Condo,2008,879,1,3,491666.9
+153,82982 Bailey Crest,Vancouver,QC,Canada,Condo,2010,1685,2,4,964742.83
+154,88731 Jones Glens Apt. 356,Calgary,BC,Canada,Townhouse,1994,3901,3,3,1554180.06
+155,00205 Jennifer Vista,Ottawa,ON,Canada,Townhouse,2009,2773,3,4,1905964.34
+156,095 Short Lights Suite 857,Calgary,ON,Canada,Condo,2007,810,3,3,394069.73
+157,36801 Bentley Coves Apt. 910,Mississauga,BC,Canada,Townhouse,2006,1298,2,2,1017134.86
+158,6018 David Plaza,Vancouver,QC,Canada,Detached,1973,3403,4,3,2020242.2
+159,2991 Jennifer Vista Suite 843,Mississauga,ON,Canada,Semi-Detached,1971,2246,4,3,677855.27
+160,8559 Stephanie Pike,Mississauga,ON,Canada,Semi-Detached,1972,2531,4,1,1471572.59
+161,4062 Pierce Knoll,Mississauga,QC,Canada,Condo,1971,2975,1,1,1371742.71
+162,6744 Lin Shoals Apt. 729,Vancouver,QC,Canada,Detached,1993,2174,4,3,1634620.72
+163,4838 White Burgs,Calgary,ON,Canada,Semi-Detached,1993,2973,3,3,1301566.72
+164,51131 Hendricks Fields,Mississauga,BC,Canada,Detached,1971,3307,1,1,1668151.51
+165,043 Cindy Tunnel Suite 350,Mississauga,ON,Canada,Detached,1992,3545,4,3,1416334.94
+166,040 Powell Trace,Calgary,BC,Canada,Townhouse,2008,2538,2,4,1312978.23
+167,856 Sanchez Turnpike Suite 497,Calgary,BC,Canada,Condo,1971,3072,3,2,1172942.52
+168,53884 Russell Place Apt. 424,Vancouver,BC,Canada,Semi-Detached,1993,3017,2,3,1876937.71
+169,4303 Jennifer Harbor Apt. 476,Calgary,AB,Canada,Detached,1977,1021,2,1,693142.55
+170,988 Lucas Estates Apt. 785,Toronto,QC,Canada,Townhouse,2004,3427,3,4,2664141.08
+171,558 Fox Villages,Calgary,AB,Canada,Detached,2003,1900,1,2,958897.23
+172,3545 Laura Rapid Apt. 861,Vancouver,QC,Canada,Townhouse,2020,795,3,2,483735.05
+173,3608 Day Overpass,Toronto,ON,Canada,Condo,1999,1912,2,4,1252140.81
+174,900 Rachael Motorway Apt. 751,Calgary,QC,Canada,Condo,1985,618,4,4,481228.46
+175,8022 Lewis Course,Ottawa,AB,Canada,Detached,2007,1368,3,2,990903.49
+176,73473 Tony Forge,Mississauga,AB,Canada,Condo,2005,2759,2,4,1062131.9
+177,0659 Richards Light,Toronto,BC,Canada,Semi-Detached,2013,778,4,2,449073.06
+178,97918 Gene Canyon Suite 671,Ottawa,BC,Canada,Semi-Detached,2008,3951,5,1,3051909.2
+179,2734 Samuel Circle Apt. 149,Mississauga,QC,Canada,Detached,1995,3373,2,2,2678520.82
+180,24434 Nunez Centers Suite 890,Toronto,AB,Canada,Condo,1977,2255,4,2,1216912.64
+181,0182 Susan Heights Apt. 234,Vancouver,ON,Canada,Townhouse,1999,3984,4,1,1197661.0
+182,9897 Martin Pass,Ottawa,QC,Canada,Townhouse,2022,635,2,4,205596.91
+183,5686 Schmidt Ramp,Ottawa,ON,Canada,Semi-Detached,2002,1905,3,3,658984.88
+184,535 Larry Islands Apt. 868,Toronto,ON,Canada,Semi-Detached,1970,3454,1,3,1512259.73
+185,3484 Ramos Parkways Apt. 131,Ottawa,ON,Canada,Detached,2021,1402,1,4,1029364.94
+186,0528 Johnson Gateway Suite 225,Toronto,AB,Canada,Townhouse,1974,2883,3,3,2045322.2
+187,45326 Sydney Stravenue Suite 012,Vancouver,ON,Canada,Detached,2014,3849,2,3,2489100.3
+188,77789 Christopher Views,Mississauga,AB,Canada,Condo,2006,3833,5,3,2665583.97
+189,2762 Salinas Vista,Calgary,BC,Canada,Condo,1989,1263,5,3,413145.53
+190,810 Kristopher Crossing Apt. 645,Vancouver,QC,Canada,Townhouse,1973,3272,2,2,2487834.37
+191,4911 Amanda Station,Toronto,QC,Canada,Semi-Detached,2007,3736,3,1,1182414.17
+192,93469 Tammy Freeway Suite 238,Ottawa,BC,Canada,Townhouse,1975,2293,3,1,1123088.34
+193,4904 Christopher Hollow,Ottawa,BC,Canada,Townhouse,2002,1172,2,3,498930.75
+194,124 Michelle Flats Apt. 033,Ottawa,QC,Canada,Detached,1988,2436,2,1,1488031.97
+195,105 Thomas Fords Apt. 657,Mississauga,AB,Canada,Detached,2018,2550,3,1,1084827.09
+196,6330 Lowe Glens Suite 474,Ottawa,BC,Canada,Detached,2000,2853,1,4,1154696.66
+197,2763 Daniel Ports,Vancouver,BC,Canada,Detached,1979,1801,3,4,1343715.63
+198,64176 Wagner Throughway,Ottawa,QC,Canada,Semi-Detached,1974,3421,4,4,1801806.98
+199,9437 Espinoza Valley,Vancouver,AB,Canada,Detached,1989,1433,4,2,509095.36
