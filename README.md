@@ -18,11 +18,3 @@ If implemented, this API accepts new property data, cleans it, and returns the c
 Modeling Approach and Results
 A machine learning model was trained using features like location, size, rooms, and year built to predict prices. The model was tested and showed good accuracy.
 
-Prediction API (if created)
-If implemented, this API takes property details and returns a predicted price based on the model.
-
-Files Included
-A Jupyter Notebook with data loading, cleaning, and modeling steps.
-
-Optional API scripts for cleaning and prediction.
-
