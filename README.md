@@ -26,6 +26,3 @@ A Jupyter Notebook with data loading, cleaning, and modeling steps.
 
 Optional API scripts for cleaning and prediction.
 
-Sample dataset (if provided).
-
-This README file.
